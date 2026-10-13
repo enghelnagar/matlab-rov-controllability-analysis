@@ -3,7 +3,8 @@
 ## Project Overview
 This repository contains a MATLAB-based mathematical framework for analyzing the controllability and dynamics of a Remotely Operated Vehicle (ROV). The project leverages linear control theory to formulate the state-space representation of the ROV, evaluate its controllability under normal and degraded conditions, and simulate its state evolution using optimal control inputs.
 
-> **Note:** [Add a screenshot of the MATLAB plots showing the X, Y, Yaw, and velocities tracking the reference state]
+> <img width="1902" height="968" alt="untitled" src="https://github.com/user-attachments/assets/01501d57-f73b-451f-8429-6ba976d28dd3" />
+
 
 ## Mathematical Architecture
 
