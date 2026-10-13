@@ -18,6 +18,7 @@ Where:
 
 ### Controllability Gramian
 The system's ability to reach a desired final state $X_f$ within time $T$ is evaluated by computing the Controllability Gramian $W_c$:
+
 $$W_c = \int_0^T e^{A(T-\tau)} B B^T e^{A^T(T-\tau)} d\tau$$
 
 A full-rank Gramian ($rank(W_c) = 6$) guarantees complete state controllability.
