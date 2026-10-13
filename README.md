@@ -10,6 +10,7 @@ This repository contains a MATLAB-based mathematical framework for analyzing the
 
 ### State-Space Representation
 The ROV's dynamics are modeled as a linear time-invariant (LTI) system with a 6-dimensional state vector $X = [x, y, \theta, v_x, v_y, \omega]^T$:
+
 $$\dot{X} = A X + B U$$
 
 Where:
